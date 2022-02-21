@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+
+input{
+    width:200px;
+    padding:20px 30px;
+    font-size:50px
+}
+p{
+    font-size:25px;
+}
+
+.btn--orange {
+    color: #fff;
+    background-color: #eb6100;
+    border-bottom: 5px solid #b84c00;
+  }
+.btn--orange:hover {
+    margin-top: 3px;
+    color: #fff;
+    background: #f56500;
+    border-bottom: 2px solid #b84c00;
+  }
+.btn--shadow {
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+  }
+
+  .image{
+      height:250px;
+      width:200px;
+  }
+  .image-2{
+    height:250px;
+    width:300px;
+}
+
+  .present{
+      display: none;
+  }
